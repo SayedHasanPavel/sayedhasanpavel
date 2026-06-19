@@ -1,14 +1,14 @@
-# Hi there! 👋 I'm Ali Akber Mehedi
+# Hi there! 👋 I'm Sayed Hasan Pavel
 
 <div align="center">
-<img src="https://media.licdn.com/dms/image/v2/D5616AQGtRkxfbvfusw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1711270372207?e=1761782400&v=beta&t=dBItrxwSIxld2BOat6o2xE-4GXyaPiPUp6BVtuv8PmA" alt="Ali Akber Mehedi - Frontend Specialist" width="100%" height="300" style="object-fit: cover; border-radius: 15px;"/>
+<img src="https://media.licdn.com/dms/image/v2/D5616AQGtRkxfbvfusw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1711270372207?e=1761782400&v=beta&t=dBItrxwSIxld2BOat6o2xE-4GXyaPiPUp6BVtuv8PmA" alt="Sayed Hasan Pavel - Frontend Specialist" width="100%" height="300" style="object-fit: cover; border-radius: 15px;"/>
 </div>
 
 <br/>
 
 <div align="center">
   <h1>
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Ali+Akber+Mehedi!;Frontend+Specialist!;Full+Stack+Developer!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Sayed+Sayed Hasan Pavel!;Frontend+Specialist!;Full+Stack+Developer!;" />
   </h1>
 </div>
 
