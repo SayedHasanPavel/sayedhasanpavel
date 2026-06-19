@@ -1,11 +1,3 @@
-Soudi arab foraign client jonn Arabian Hunter name akta website banaichi ata NextJS,NodeJs, ExpressJS  & postsql Database diye banai.ata chaile client dekhte parbe ID: Sahin@123 Pass: 123 tumi project 4th card a agula diye design ta koro, design akta photo deyar jonn rakhio jekhane ami project er screenshot ta dibo 
-
-
-
-bornomala name akta convetor akta website banai ata react, wrangler & D1 database diye banai . tumi project ta 6th card rakho
-
-
-
 # Hi there! 👋 I'm Sayed Hasan Pavel
 
 <div align="center">
