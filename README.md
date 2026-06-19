@@ -1,3 +1,11 @@
+Soudi arab foraign client jonn Arabian Hunter name akta website banaichi ata NextJS,NodeJs, ExpressJS  & postsql Database diye banai.ata chaile client dekhte parbe ID: Sahin@123 Pass: 123 tumi project 4th card a agula diye design ta koro, design akta photo deyar jonn rakhio jekhane ami project er screenshot ta dibo 
+
+
+
+bornomala name akta convetor akta website banai ata react, wrangler & D1 database diye banai . tumi project ta 6th card rakho
+
+
+
 # Hi there! 👋 I'm Sayed Hasan Pavel
 
 <div align="center">
@@ -8,7 +16,7 @@
 
 <div align="center">
   <h1>
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Sayed+Sayed Hasan Pavel!;Frontend+Specialist!;Full+Stack+Developer!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Sayed+Hasan+Pavel!;Frontend+Specialist!;Full+Stack+Developer!;" />
   </h1>
 </div>
 
@@ -62,8 +70,8 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ali-akber-mehedi-684262209)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://fb.com/aliakbermehedi1)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sayed-hasan-pavel/)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/sayedhasanpabel/)
 
 </div>
 
