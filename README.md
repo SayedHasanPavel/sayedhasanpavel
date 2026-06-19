@@ -16,14 +16,14 @@
 
 ### 💫 About Me:
 
-🚀 **Frontend Specialist** & **Full-Stack Developer** at **Dekko Isho Group**  
+🚀 **Software Developer** & **Full-Stack Developer** at **Global Islami Bank PLC**  
 🔥 Passionate about creating scalable, user-friendly solutions that make a real impact  
 🌟 Always exploring cutting-edge technologies and innovative approaches  
 🎯 Seeking exciting remote opportunities to showcase my expertise  
 💡 Focused on delivering exceptional user experiences through clean, efficient code  
 
 ### 🔭 Current Focus:
-- **Working on:** Advanced Frontend Solutions at Dekko Isho Group
+- **Working on:** Software Developer at Global Islami Bank PLC
 - **Learning:** Python 🐍 & Advanced React Patterns  
 - **Goal:** Contributing to revolutionary software solutions
 - **Fun Fact:** I optimize code by day and optimize my sleep for 8 hours by night! 😴
